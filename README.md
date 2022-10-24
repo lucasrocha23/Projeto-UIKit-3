@@ -9,6 +9,7 @@ Na tela inicial temos na direita um botão de pesquisa, para filtrar resultados 
 <div align="center">
 <img src="imagens/tela inicial.png" alt="photo" width="285" height="617'">
 <img src="imagens/tela petição detalhada.png" alt="photo" width="285" height="617'">
+<br>
 <img src="imagens/tela pesquisa.png" alt="photo" width="285" height="617'">
 <img src="imagens/tela pesquisa filtrada.png" alt="photo" width="285" height="617'">
 </div>
